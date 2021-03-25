@@ -1,9 +1,10 @@
 
 # sol-week-5
 ## 要求三
-
+-錯誤調整：資料表設計中設定時間自動設定為當前時間，所以新增資料的時候其實不需要特別在寫時間為 now()  
 
 - 使用 INSERT 指令新增一筆資料到 user 資料表中，<br>這筆資料的 username 和 password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。
+- 
 
 
 <img src="https://github.com/espitiachisol/sol-week-5/blob/main/3-1.png" width="800" >
